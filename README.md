@@ -20,7 +20,7 @@ Hint will show then number of that selected cell on the whole board.
 ### Screenshot
 Here is the result!
 
-![](sudoku-solver.PNG)
+![](./asset/sudoku-solver.PNG)
 
 
 ## My process
