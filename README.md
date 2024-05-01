@@ -7,6 +7,7 @@ A normal web application where you can challange youself on your sudoku skills.
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Live site URL](#live-site-url)
 - [Author](#author)
 
 
@@ -30,6 +31,8 @@ Here is the result!
 - React Js Typescript
 - Material Ui
 
+## Live site URL
+https://sudoku-helper.netlify.app
 ## Author
 
 - Github - [ashu305](https://github.com/ashu305)
